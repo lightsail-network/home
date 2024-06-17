@@ -6,6 +6,7 @@ ORG_NAME = "Lightsail Network"
 ORG_URL = "https://lightsail.network/"
 ORG_GITHUB = "lightsail-network"
 ORG_OFFICIAL_EMAIL = "team@lightsail.network"
+ORG_KEYBASE="overcat"
 
 [[PRINCIPALS]]
 name = "Jun Luo"
