@@ -16,6 +16,6 @@ github = "overcat"
 [[VALIDATORS]]
 ALIAS="lightsail-network-1"
 DISPLAY_NAME="Lightsail Network 1"
-HOST="core-live-a.lightsail.network"
+HOST="core-live-a.lightsail.network:11625"
 PUBLIC_KEY="GCAT2DUDAW7FSNEX4O2TKH3X2UN6RM6LJGBS4FVV6UN62ROBPWYDMYY5"
 HISTORY="https://core-live-a-history.lightsail.network/"
