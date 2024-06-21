@@ -19,3 +19,17 @@ DISPLAY_NAME = "Lightsail Network 1"
 HOST = "core-live-a.lightsail.network:11625"
 PUBLIC_KEY = "GCAT2DUDAW7FSNEX4O2TKH3X2UN6RM6LJGBS4FVV6UN62ROBPWYDMYY5"
 HISTORY = "https://core-live-a-history.lightsail.network/"
+
+[[VALIDATORS]]
+ALIAS = "lightsail-network-2"
+DISPLAY_NAME = "Lightsail Network 2"
+HOST = "core-live-b.lightsail.network:11625"
+PUBLIC_KEY = "GBZSLUW7NHPXCJN7SIDUGDH754VFYDPXZII6S74EGV6I5Y34BHE7E2PJ"
+HISTORY = "https://core-live-b-history.lightsail.network/"
+
+[[VALIDATORS]]
+ALIAS = "lightsail-network-3"
+DISPLAY_NAME = "Lightsail Network 3"
+HOST = "core-live-c.lightsail.network:11625"
+PUBLIC_KEY = "GA3FLRTZLNMBXCQ2GG4W2CO2WXWGDDROCD3KVD5QYMYB5NXBUYMO2QXT"
+HISTORY = "https://core-live-c-history.lightsail.network/"
