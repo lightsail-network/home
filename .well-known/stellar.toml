@@ -9,7 +9,7 @@ ORG_OFFICIAL_EMAIL = "team@lightsail.network"
 ORG_KEYBASE = "overcat"
 
 [[PRINCIPALS]]
-name = "Jun Luo"
+name = "overcat"
 email = "4catcode@gmail.com"
 github = "overcat"
 
