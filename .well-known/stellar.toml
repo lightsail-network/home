@@ -7,6 +7,7 @@ ORG_URL = "https://lightsail.network/"
 ORG_GITHUB = "lightsail-network"
 ORG_OFFICIAL_EMAIL = "team@lightsail.network"
 ORG_KEYBASE = "overcat"
+ORG_DESCRIPTION="Empower the Stellar ecosystem"
 
 [[PRINCIPALS]]
 name = "overcat"
