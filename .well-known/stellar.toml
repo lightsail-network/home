@@ -1,5 +1,6 @@
 VERSION = "2.0.0"
 NETWORK_PASSPHRASE = "Public Global Stellar Network ; September 2015"
+HORIZON_URL="https://horizon.lightsail.network"
 
 [DOCUMENTATION]
 ORG_NAME = "Lightsail Network"
