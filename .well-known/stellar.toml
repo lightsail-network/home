@@ -11,7 +11,7 @@ ORG_DESCRIPTION="Empower the Stellar ecosystem"
 
 [[PRINCIPALS]]
 name = "overcat"
-email = "4catcode@gmail.com"
+email = "hi@overcat.dev"
 github = "overcat"
 
 [[VALIDATORS]]
